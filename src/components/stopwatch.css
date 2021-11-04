@@ -1,0 +1,30 @@
+button {
+    display: block;
+    width: 180px;
+    height: 40px;
+    margin: 40px auto;
+    border-radius: 10px;
+    font-size: 18px;
+    padding-left: 10px;
+    border: none;
+    color: #e7e7e6;
+    background-color: #6323d8
+}
+.stopwatch{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    margin: 220px auto 50px;
+
+}
+.numbers{
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: rgb(117, 72, 72);
+    border: 3px solid rgb(117, 72, 72);
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 5px;
+    background-color: #f9d444;
+}

@@ -1,0 +1,16 @@
+.clock-div{
+    display: block;
+    margin: 300px 50px;
+}
+.digital-clock{
+    text-align: center;
+    font-size: 5rem;
+    font-weight: bold;
+    font-weight: 600;
+    color: rgb(117, 72, 72);
+    border: 3px solid rgb(117, 72, 72);
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 15px;
+    background-color: #f9d444;
+}

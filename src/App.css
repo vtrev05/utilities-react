@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+nav{
+    margin: 50px 0;
+}
+ul{
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+}
+li{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    width: 100%;
+    max-width: 550px;
+    border-radius: 5px;
+    margin: 0 auto 30px auto;
+    margin-bottom: 30px;
+}
+span{
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: rgb(117, 72, 72);
+    border: 3px solid rgb(117, 72, 72);
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 5px;
+    background-color: #f9d444;
+}

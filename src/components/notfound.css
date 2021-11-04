@@ -1,0 +1,22 @@
+h1{
+    display: block;
+    margin: 150px auto 50px;
+    text-align: center;
+    color: #f9d444;
+    font-size: 4rem;
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 600;
+    letter-spacing: -0.025em;
+    text-transform: none;
+}
+H3{
+    display: block;
+    margin: 100px auto 50px;
+    color: #785aaf;
+    font-size: 3rem;
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 600;
+    letter-spacing: -0.025em;
+    text-transform: none;
+    text-align:left;
+}
