@@ -30,7 +30,7 @@ const App = () => {
         </>
         <main>
           <Switch>
-            <Route exact path="/" component={Home} />
+            <Route path="/" component={Home} />
             <Route path="/clock" component={DigitalClock} />
             <Route path="/counter" component={CountDown} />
             <Route path="/crono" component={Stopwatch} />
